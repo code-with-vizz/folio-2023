@@ -406,8 +406,8 @@ body.dark-theme {
 }
 
 .home__image {
-  width: 200px;
-  height: 200px;	
+  width: 220px;
+	
 }
 
 .home__img {
@@ -593,7 +593,6 @@ body.dark-theme {
 
 .about__image {
   width: 220px;
-  height: 250px;
 }
 
 .about__img {
